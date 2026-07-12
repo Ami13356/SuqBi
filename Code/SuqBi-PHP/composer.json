@@ -1,0 +1,15 @@
+{
+    "name": "aminata/suqbi",
+    "description": "SuqBi - Vos courses de marche, livrees simplement.",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aminata"
+        }
+    ],
+    "require": {}
+}
